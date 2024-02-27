@@ -1,0 +1,5 @@
+Product	Price
+Aspen	24.95
+Carlota	26.95
+Quad	43.69
+Sunshine	19.55
